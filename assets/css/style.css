@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: white;
+
+}
+
+.navbar {
+    background: linear-gradient(to bottom, rgba(30,87,153,0) 0%,#06a1c1 60%); 
+    width: 100vw;
+    size: 15;
+}
+.logo {
+    width: 20px;
+}
+
+
+.icon{
+    background-color: #07caf0;
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    
+}
+
+.foter{  
+    margin-top: 15px;
+    padding: 1em;
+    text-align: center;
+    background-color: #07caf0;
+    overflow: hidden;
+
+}
+.item{
+    float: left;
+    margin: 0.5em;
+    padding: 0.5em;
+    text-align: center;
+    
+}
+.textoCentro{
+    text-align: center;
+    align-items: center;
+    margin: 1em;
+    padding: 1em;
+ 
+}
+h6{
+    margin-top: 15px;
+}
+
+
